@@ -27,9 +27,9 @@ A CLI-based todo app built using Golang.
 
 | Platform | Download |
 |:---------|:---------|
-| Linux | [Download `todo-linux`](https://.com/todo-linux) |
-| macOS | [Download `todo-mac`](https://.com/todo-mac) |
-| Windows | [Download `todo.exe`](https://.com/todo.exe) |
+| Linux | [Download `todo-linux`](https://github.com/kaviraj-j/cli-todo/releases/download/v0.1/todo-linux) |
+| macOS | [Download `todo-mac`](https://github.com/kaviraj-j/cli-todo/releases/download/v0.1/todo-mac) |
+| Windows | [Download `todo.exe`](https://github.com/kaviraj-j/cli-todo/releases/download/v0.1/todo.exe) |
 
 ---
 
